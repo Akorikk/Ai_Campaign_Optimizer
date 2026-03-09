@@ -9,7 +9,9 @@ psycopg2-binary
 streamlit
 plotly
 python-dotenv
-pydanticcls
 requests
 pytest
 python-multipart
+pydantic
+redis
+rq
